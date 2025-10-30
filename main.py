@@ -1,8 +1,7 @@
-
 from turtle import *
 import random
-import Tree_Functions as trees
-import House_Functions as houses
+import tree_functions as trees
+import house_functions as houses
 
 setworldcoordinates(-400, -400, 400, 400)
 tracer(0)
